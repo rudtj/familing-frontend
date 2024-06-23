@@ -4,11 +4,12 @@
 
 ```
 1. Type(File or function): Subject 
-2. Type: Subject
+2. Type: Subject    // (파일이 여러 개인 경우)
 ```
 ex) 로그인 기능 추가
 ```
-feat(login.html): 로그인 기능 추가
+feat(login.html): 로그인 기능 추가 // (login.html 파일만 추가)
+feat: 로그인 기능 추가 // 파일이 여러 개인 경우 ()안에 다 넣을 수 없으므로 생략 
 ```
 
 |    Type    | 설명                                             |
