@@ -6,6 +6,10 @@
 1. Type(File or function): Subject 
 2. Type: Subject
 ```
+ex) 로그인 기능 추가
+```
+feat(login.html): 로그인 기능 추가
+```
 
 |    Type    | 설명                                             |
 |:----------:|------------------------------------------------|
